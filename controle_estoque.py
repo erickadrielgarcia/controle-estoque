@@ -90,7 +90,7 @@ def removerpeca():
 
 
 #código principal
-print('Bem vindo ao Controle de estoque da bicicletaria Erick Adriél Garcia RU 4045447\n')
+print('Bem vindo ao Controle de estoque da bicicletaria Erick Adriél Garcia\n')
 
 
 listapecas = []
